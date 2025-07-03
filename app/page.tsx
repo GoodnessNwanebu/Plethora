@@ -214,7 +214,7 @@ export default function PlethoraLanding() {
                 </blockquote>
                 <div className="flex items-center">
                   <div className="w-12 h-12 bg-purple-100 dark:bg-purple-900 rounded-full flex items-center justify-center mr-4">
-                    <span className="text-purple-600 font-semibold">MC</span>
+                    <span className="text-purple-600 font-semibold">MZ</span>
                   </div>
                   <div>
                     <div className="font-semibold">Mike Zajko </div>
