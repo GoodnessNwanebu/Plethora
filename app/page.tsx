@@ -73,7 +73,7 @@ export default function PlethoraLanding() {
                 </span>
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-                Focus on what you do best—creating amazing content. We handle everything else, from production to
+                Focus on creating amazing content. We handle everything else, from production to
                 post-production, so you can just have fun recording.
               </p>
             </div>
